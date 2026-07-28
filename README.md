@@ -93,7 +93,7 @@ DAX:  CALCULATE ,  FILTER ,  ALL ,  RANKX ,  SWITCH(TRUE()) , вычи
 ![Статистика строительства](file-001.png)
 
 **Страница 2 — Рынок недвижимости РФ**
-![Рынок РФ](dashboard/page2_russia_real_estate.png)
+![Рынок РФ](file-002.png)
 
 **Страница 3 — Рынок жилья Москвы**
-![Рынок Москвы](dashboard/page3_moscow_market.png)
+![Рынок Москвы](file-003.png)
